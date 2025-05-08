@@ -1,0 +1,10 @@
+requests 
+beautifulsoup4 
+praw 
+snscrape 
+python-dotenv 
+pandas
+tornado>=6.2
+psycopg2-binary 
+sqlalchemy
+sentence_transformers
